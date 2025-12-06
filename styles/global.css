@@ -9,6 +9,11 @@ header {
     height: 100px;
 }
 
+footer {
+    background-color: rgb(0, 0, 0);
+    height: 40px;
+}
+
 .container {
     width: 100%;
     max-width: 1400px;
