@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(255, 255, 255);
+    margin: unset;
+    padding: unset;
+}
+
+header {
+    background-color: rgb(48, 68, 120);
+    height: 100px;
+}
+
+.container {
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 1.25rem;
+}
